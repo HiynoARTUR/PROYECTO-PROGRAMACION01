@@ -40,7 +40,7 @@ POO: Los destructores permiten liberar recursos de manera controlada cuando un o
 Estructurada: No hay un mecanismo de destructor, lo que puede llevar a fugas de memoria si no se manejan correctamente los recursos.
 
 Comentarios del Codigo
-Al iniciar el programa, se presenta un menú principal que permite al usuario seleccionar acciones como crear un nuevo usuario, iniciar sesión, 
+>Al iniciar el programa, se presenta un menú principal que permite al usuario seleccionar acciones como crear un nuevo usuario, iniciar sesión, 
 eliminar un usuario, mostrar un diccionario financiero o recibir un consejo financiero. Cada tipo de usuario tiene su propia lógica para ingresar 
 datos y calcular ingresos y gastos, lo que se refleja en métodos virtuales que son implementados en las clases derivadas.
 El sistema también incluye funciones para encriptar contraseñas, validar fechas y proporcionar recomendaciones financieras basadas en la situación 
