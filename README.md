@@ -21,22 +21,22 @@ Requisitos Previos
 
 >Diferencias entre Programación Estructurada y Orientada a Objetos
 
-Diferencias entre POO y Estructurada
+# Diferencias entre POO y Estructurada
 Organización de Datos y Comportamientos:
 
-POO: Utiliza clases y objetos para encapsular datos y comportamientos. Cada clase puede tener atributos (datos) y métodos (funciones) que operan sobre esos datos. Esto permite una mejor organización y reutilización del código.
+>POO: Utiliza clases y objetos para encapsular datos y comportamientos. Cada clase puede tener atributos (datos) y métodos (funciones) que operan sobre esos datos. Esto permite una mejor organización y reutilización del código.
 Estructurada: Utiliza estructuras y funciones independientes. Los datos y las funciones que operan sobre esos datos están separados, lo que puede llevar a un código menos modular y más difícil de mantener.
 Encapsulamiento:
 
-POO: Permite el encapsulamiento, donde los datos de un objeto están protegidos y solo pueden ser accedidos a través de métodos públicos. Esto ayuda a mantener la integridad de los datos.
+>POO: Permite el encapsulamiento, donde los datos de un objeto están protegidos y solo pueden ser accedidos a través de métodos públicos. Esto ayuda a mantener la integridad de los datos.
 Estructurada: No tiene un mecanismo de encapsulamiento. Las variables son accesibles desde cualquier parte del código, lo que puede llevar a errores si se modifican accidentalmente.
 Herencia y Polimorfismo:
 
-POO: Permite la herencia, donde una clase puede heredar atributos y métodos de otra clase. También permite el polimorfismo, donde se pueden usar métodos de diferentes clases a través de una interfaz común.
+>POO: Permite la herencia, donde una clase puede heredar atributos y métodos de otra clase. También permite el polimorfismo, donde se pueden usar métodos de diferentes clases a través de una interfaz común.
 Estructurada: No tiene soporte para herencia o polimorfismo. Cada función debe ser escrita para cada tipo de usuario, lo que puede llevar a duplicación de código.
 Manejo de Recursos:
 
-POO: Los destructores permiten liberar recursos de manera controlada cuando un objeto ya no es necesario.
+>POO: Los destructores permiten liberar recursos de manera controlada cuando un objeto ya no es necesario.
 Estructurada: No hay un mecanismo de destructor, lo que puede llevar a fugas de memoria si no se manejan correctamente los recursos.
 
 Comentarios del Codigo
